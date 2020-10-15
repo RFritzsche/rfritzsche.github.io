@@ -1,0 +1,303 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Compilation: 
+%%% PDFLaTeX BibTeX PDFLaTeX PDFLaTeX
+%%% Antonio Machicao y Priemer
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[11pt]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%%% Packages:
+%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage[utf8]{inputenc}
+%\usepackage{xcolor}		%Farbelemente
+%\usepackage{natbib}		%Bibliographie
+\usepackage[ngerman,english]{babel}
+\usepackage{setspace}	%Zeilenabstand
+	\onehalfspacing
+\usepackage[sc]{titlesec} %Small-Caps Sections
+
+\usepackage{multirow}  %Mehrere Zeilen in einer Tabelle
+%\usepackage{tipa}		%IPA-Zeichen
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{MnSymbol} %Mathematische Klammern und Symbole (Inkompatibel mit ams-Packages!) 
+\usepackage{xspace}		%Leerzeichen
+\usepackage[dvipdfm]{geometry}	%Ränder
+\usepackage{array}
+\usepackage[bottom]{footmisc}	%FN unten!
+\usepackage{listings}	%Besondere Listen
+%\geometry{left=3cm,right=3cm,vmargin=3cm}
+\usepackage{marginnote}	%Notizen
+\usepackage{upgreek}
+
+% Letzte Pakete 
+\usepackage[hidelinks]{hyperref}	%URLs
+
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%%% New Commands:
+%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Quotation marks (German):
+\newcommand{\gqq}[1]{\glqq{}#1\grqq{}}
+\newcommand{\gq}[1]{\glq{}#1\grq{}}
+
+%% German Abbreviations: \,	
+\newcommand{\idR}{\mbox{i.\,d.\,R.}\xspace}
+\newcommand{\su}{\mbox{s.\,u.}\xspace}
+\newcommand{\ua}{\mbox{u.\,a.}\xspace}
+\newcommand{\zB}{\mbox{z.\,B.}\xspace}
+%\dh --> d.\,h.
+
+%% Rightarrow
+\def\ra{\ensuremath\rightarrow}
+\def\ras{\ensuremath\rightarrow\ }
+
+%% Notes
+\renewcommand{\marginfont}{\singlespacing}
+\renewcommand{\marginfont}{\footnotesize}
+\renewcommand{\marginfont}{\color{black}}
+
+\newcommand{\myp}[1]{%
+	\marginnote{%
+		\begin{spacing}{1}
+			\vspace{-\baselineskip}%
+			\color{red}\footnotesize#1
+		\end{spacing}
+	}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%%% End Preamble
+%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\pagestyle{empty}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%% Title
+\noindent\begin{minipage}{.48\textwidth}
+
+\begin{flushleft}
+\huge{\textsc{Robert Fritzsche}}
+\vspace{.5\baselineskip}
+
+\Large{\textsc{Curriculum Vitae}}\\
+\vspace{\baselineskip}
+\small{Updated: \today}
+\end{flushleft}
+\end{minipage}\hfill%
+\begin{minipage}{.48\textwidth}
+\begin{flushright}
+	Universität Leipzig\\
+	Institut für Linguistik (IGRA)\\
+	Beethovenstr. 15, 04107 Leipzig\\
+	+49~341~9739786 \\
+	\href{mailto:robert.fritzsche@uni-leipzig.de}{robert.fritzsche@uni-leipzig.de} \\
+	\href{http://robertfritzsche.de/}{http://robertfritzsche.de/}\\
+\end{flushright}
+\end{minipage}
+%\vspace{1.5\baselineskip}
+
+\noindent\rule{\textwidth}{1pt}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%\section*{Contact Information}
+
+%\begin{flushleft}
+%  Edlichstr. 20, 04315 Leipzig \\
+%  Telephone: +49~176~61420251 \\
+%  Email: \href{mailto:robert@robertfritzsche.de}{robert@robertfritzsche.de} \\
+%  Homepage: \url{https://www.linguistik.hu-berlin.de/staff/amyp}\\
+%\end{flushleft}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%\section*{Persönliche Daten}
+%\begin{flushleft}
+%  %Gender: Male \\
+%  Geburtsdatum: 16.05.1991 \\
+%  Geburtsort: Chemnitz \\
+%  Staatsangehörigkeit: deutsch \\
+%  Familienstand: ledig \\
+%\end{flushleft}
+
+%\pagebreak
+
+
+%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Education}
+
+%\noindent\begin{tabular}{ll}%
+%	since 04/2019 & \textbf{PhD studies} at at Universität Leipzig \\
+%	& Research Training Program `Interaction of Grammatical Building Blocks' (IGRA)
+%\end{tabular}%
+
+\begin{list}{}{
+			\setlength{\leftmargin}{3.5cm}
+			\setlength{\itemindent}{-2.5cm}
+		}
+	\item[04/2019 -- \phantom{09/2018}~] \textbf{PhD studies}, Universität Leipzig, Research Training Program `Interaction of Grammatical Building Blocks' (IGRA)
+ 
+	\item[10/2015 -- 09/2018~] \textbf{MA Linguistics}, Humboldt-Universität zu Berlin
+	\vspace{-.5em}
+	\begin{list}{}{
+			\setlength{\leftmargin}{1cm}
+			\setlength{\itemindent}{-1cm}
+		}
+	\item Master's thesis: \textit{Morpho-syntax of Verbal \textit{-s} in North Eastern English}
+	\item Supervisors: Artemis Alexiadou, Hubert Truckenbrodt
+	\item Final Grade: 1,3
+	\end{list}
+
+	\item[10/2011 -- 09/2015~] \textbf{BA English studies}, Universität Leipzig
+	\vspace{-.5em}
+	\begin{list}{}{
+			\setlength{\leftmargin}{1cm}
+			\setlength{\itemindent}{-1cm}
+		}
+	\item Bachelor's thesis: \textit{Israel in the British Media: A Corpus-Based Cognitive Approach to Critical Discourse Analysis}
+	\item Supervisors: Ursula Kania, Doris Schönefeld
+	\item Final Grade: 1,5
+	\end{list}
+\end{list}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Employment}
+
+\begin{list}{}{
+	\setlength{\leftmargin}{3.5cm}
+	\setlength{\itemindent}{-2.5cm}
+	}
+
+	\item[04/2019 -- 03/2022~] \textbf{Researcher (wissenschaftlicher Mitarbeiter)} Universität Leipzig, Research Training Program `Interaction of Grammatical Building Blocks' (IGRA)
+	
+	\item[07/2016 -- 09/2018~] \textbf{Research assistant (studentische Hilfskraft)}, Humboldt Universität zu Berlin, Department of German Studies and Linguistics
+
+\end{list}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{Publications}
+%\vspace{-1em}
+%\subsubsection*{Peer-reviewed}
+%\begin{list}{}{
+%	\setlength{\leftmargin}{3.5cm}
+%	\setlength{\itemindent}{-2.5cm}
+%	}
+%	
+%	\item[2020\phantom{~--~03/2022/04~}]
+%\end{list}
+\vspace{-1em}
+\subsubsection*{Manuscripts}
+\begin{list}{}{
+		\setlength{\leftmargin}{3.5cm}
+		\setlength{\itemindent}{-2.5cm}
+	}
+	
+	\item[2020\phantom{~--~03/2022/04~}] \textit{Ordering discontinuous $\upvarphi$-feature Agree: Verbal -s in North Eastern English}.
+\end{list}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{Presentations}
+\vspace{-1em}
+\subsubsection*{Peer-reviewed}
+\begin{list}{}{
+		\setlength{\leftmargin}{3.5cm}
+		\setlength{\itemindent}{-2.5cm}
+	}
+	
+	\item[2020\phantom{~--~03/2022/04~}] \textit{Mutual counterfeeding in Bari as two separate counterfeeding interactions}. Poster presented at the Annual Meeting on Phonology (AMP) 2020, UC Santa Cruz
+\end{list}
+
+
+\section*{Teaching}
+\vspace{-1em}
+\subsubsection*{Instructor}
+\begin{list}{}{
+		\setlength{\leftmargin}{3.5cm}
+		\setlength{\itemindent}{-2.5cm}
+	}
+	
+	\item[Summer 2019~~~~~~~] \textbf{Varieties of English}, BA English Studies, Humboldt Universität zu Berlin
+\end{list}
+\vspace{-1em}
+\subsubsection*{Assistant}	
+\begin{list}{}{
+		\setlength{\leftmargin}{3.5cm}
+		\setlength{\itemindent}{-2.5cm}
+	}
+	
+	\item[Summer 2017~~~~~~~] \textbf{Tutorial Germanic Syntax}, BA Linguistics, Humboldt Universität zu Berlin
+\end{list}
+
+
+\section*{Additional Training}
+\begin{list}{}{
+		\setlength{\leftmargin}{3.5cm}
+		\setlength{\itemindent}{-2.5cm}
+	}
+	
+	\item[2019\phantom{~--~03/2022/04~}] \textbf{Eastern Generative Grammar Summer School}, University of Wrocław, Poland, 29 July -- 9 August 2019
+\end{list}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Scholarships}
+
+\begin{list}{}{
+	\setlength{\leftmargin}{3.5cm}
+	\setlength{\itemindent}{-2.5cm}
+	}
+
+	\item[01/2014 -- 03/2018] Basic grant from \textbf{Friedrich-Ebert-Stiftung Academic Foundation} (FES)
+
+\end{list}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Skills}
+
+\begin{list}{}{
+		\setlength{\leftmargin}{3.5cm}
+		\setlength{\itemindent}{-2.5cm}
+	}
+	
+	\item[Languges~~~~~~~~~~~~~] German (native), English (fluent), French (basic), Modern Hebrew (basic), Latin (Latinum certificate)
+	\item[IT~~~~~~~~~~~~~~~~~~~~~~] LaTeX (expert), ANNIS Corpus Tools (advanced), Python (basic), R (basic), Microsoft Office
+	
+\end{list}
+
+\vspace{2\baselineskip}
+%\vfill
+%\noindent Berlin, \today
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%Tabellen
+\begin{table}[htbp] \centering%
+\begin{tabular}{lll}\hline\hline
+1 & 2 & 3 \\ \hline
+1 & \multicolumn{2}{c}{2} \\
+\hline
+\end{tabular}
+\caption{Titel\label{Tabelle: Label}}
+\end{table}
+
+
+
+
+
+
