@@ -11,4 +11,4 @@ author_profile: true
 
 ## Presentations
 ---
-(2020) *Mutual counterfeeding in Bari as two separate counterfeeding interactions*. Poster at the Annual Meeting in Phonology (AMP) 2020, UC Santa Cruz ([Poster](https://robertfritzsche.github.io/fritzsche.github.io/files/fritzsche-mcf-amp2020))
+(2020) *Mutual counterfeeding in Bari as two separate counterfeeding interactions*. Poster at the Annual Meeting in Phonology (AMP) 2020, UC Santa Cruz ([Poster](https://robertfritzsche.github.io/fritzsche.github.io/files/fritzsche-mcf-amp2020.pdf))
