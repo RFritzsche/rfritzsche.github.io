@@ -10,5 +10,5 @@ author_profile: true
 #### Varieties of English  
 (BA Module 5: History and Variation of English, Course 5250111)  
 _Humboldt University, Department of English and American Studies_  
-Summerterm 2019  
+Summer term 2019  
 [Link to moodle](https://moodle.hu-berlin.de/course/view.php?id=87118)
