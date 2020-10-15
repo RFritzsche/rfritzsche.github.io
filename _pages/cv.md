@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](https://robertfritzsche.github.io/fritzsche.github.io/files/cv-fritzsche-10-2020.pdf).
+You can download my CV [here](https://robertfritzsche.github.io/fritzsche.github.io/files/cv-fritzsche.pdf).
