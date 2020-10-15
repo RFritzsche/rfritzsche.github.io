@@ -19,7 +19,6 @@ I am mainly interested in syntax and the syntax-morphology interface but sometim
 - Tone
 
 ## Contact
----
 
 #### Email
 
