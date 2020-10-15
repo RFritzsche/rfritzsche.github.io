@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Robert Fritzsche"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,3 +17,20 @@ I am mainly interested in syntax and the syntax-morphology interface but sometim
 - Interactions between movement and agreement
 - Welsh Syntax
 - Tone
+
+## Contact
+
+#### Email
+
+robert \[dot\] fritzsche \[at\] uni-leipzig \[dot\] de
+
+#### Address 
+
+Institut für Linguistik (IGRA)  
+Universität Leipzig  
+Beethovenstr. 15  
+D-04107 Leipzig
+
+#### Phone
+
++49 341 97-39786
