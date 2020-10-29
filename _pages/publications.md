@@ -7,7 +7,7 @@ author_profile: true
 
 ## Manuscripts
 ---
-(2020) *Ordering discontinuous &phi;-feature Agree: Verbal -s in North Eastern English* ([Paper](https://robertfritzsche.github.io/robertfritzsche.github.io/files/vbls-submission-version_4_1.pdf))
+(2020) *Ordering discontinuous &phi;-feature Agree: Verbal -s in North Eastern English* ([Paper](https://robertfritzsche.github.io/robertfritzsche.github.io/files/fritzsche-vbls-oct2020.pdf))
 
 ## Presentations
 ---
