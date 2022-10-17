@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD-candidate in the graduate programme ["Interaction of Grammatical Building Blocks (IGRA)"](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine/) at the University of Leipzig. My pronouns are he/they.
+I am a PhD-candidate in the graduate programme ["Interaction of Grammatical Building Blocks (IGRA)"](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine/) at the University of Leipzig. My pronouns are they/them.
 
 I am mainly interested in syntax and the syntax-morphology interface but sometimes also in phonology. More specifically:
 
@@ -24,7 +24,7 @@ I am mainly interested in syntax and the syntax-morphology interface but sometim
 
 #### Email
 
-robert \[dot\] fritzsche \[at\] uni-leipzig \[dot\] de
+r \[dot\] fritzsche \[at\] studserv \[dot\] uni-leipzig \[dot\] de
 
 #### Address 
 
