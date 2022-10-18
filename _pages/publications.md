@@ -7,11 +7,11 @@ author_profile: true
 
 ## Manuscripts
 ---
-(2022) *Ordering discontinuous &phi;-feature Agree: Verbal -s in North Eastern English* ([Paper](https://robertfritzsche.de/files/fritzsche-vbls-aug2022.pdf))
+(2022) *Ordering discontinuous &phi;-feature Agree: Verbal -s in North Eastern English* ([Paper](https://r-fritzsche.de/files/fritzsche-vbls-aug2022.pdf))
 
 ## Presentations
 ---
-(2022) *Discontinuous Agree: Verbal -s in North Eastern English*. Poster accepted at 36th Comparative Germanic Syntax Workshop (CGSW), The University of Chicago ([Poster](https://r-fritzsche.de/files/fritzsche-cgsw36.pdf)
+(2022) *Discontinuous Agree: Verbal -s in North Eastern English*. Poster accepted at 36th Comparative Germanic Syntax Workshop (CGSW), The University of Chicago ([Poster](https://r-fritzsche.de/files/fritzsche-cgsw36.pdf))
 
 (2021) *Mutual counterfeeding in Bari as two separate counterfeeding interactions*. Talk presented at the 18th Old World Conference on Phonology (OCP18), UIB Eivissa ([Slides](https://r-fritzsche.de/files/fritzsche-mcf-slides.pdf))
 
