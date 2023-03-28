@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rosa Fritzsche"
-  avatar           : 
+  avatar           : "disabled"
   bio              : "PhD student in linguistics"
   location         : "Leipzig, Germany"
   employer         :
