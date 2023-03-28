@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD-candidate in the graduate programme ["Interaction of Grammatical Building Blocks (IGRA)"](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine/) at the University of Leipzig.
 
-I am mainly interested in syntax and the syntax-morphology interface but sometimes also in phonology. More specifically:
+I am mainly interested in syntax and sometimes also in phonology. More specifically:
 
 - Anti-locality and agreement
 - (Non-canonical) Agreement and syntactic microvariation
