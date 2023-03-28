@@ -69,13 +69,12 @@
    Author profile and links
    ========================================================================== */
 
-/*
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 0px;
   // set width only, for non-square avatars
-  // height: 36px;
+  // height: 0px;
 
   @include breakpoint($large) {
     display: block;
@@ -93,7 +92,6 @@
     }
   }
 }
-*/
 
 .author__content {
   display: table-cell;
