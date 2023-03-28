@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rosa Fritzsche"
   avatar           : "profiljpg.jpg"
-  bio              : "PhD student in linguistics"
+  bio              : "PhD student in Linguistics, mainly Syntax."
   location         : "Leipzig, Germany"
-  employer         :
+  employer         : "Universität Leipzig"
   pubmed           : 
   googlescholar    : 
-  email            : 
+  email            : r.fritzsche@uni-leipzig.de
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "rfritzsche"
   google_plus      :
   keybase          :
   instagram        :
