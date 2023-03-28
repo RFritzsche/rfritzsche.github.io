@@ -12,12 +12,11 @@ I am a PhD-candidate in the graduate programme ["Interaction of Grammatical Buil
 
 I am mainly interested in syntax and sometimes also in phonology. More specifically:
 
-- Anti-locality and agreement
-- (Non-canonical) Agreement and syntactic microvariation
-- Interactions between movement and agreement
-- Welsh Syntax
+- Anti-locality and anti-local agreement
+- Sequential interactions between movement and agreement
+- Syntactic microvariation
 - Syntax of Nakh-Daghestanian languages
-- Tone
+- Mutual Counterfeeding (work on tone in Bari)
 
 ## Contact
 
