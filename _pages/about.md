@@ -12,10 +12,9 @@ I am a PhD-candidate in the graduate programme ["Interaction of Grammatical Buil
 
 I am mainly interested in syntax and the syntax-morphology interface but sometimes also in phonology. More specifically:
 
-- (Non-canonical) Agreement
-- Syntactic microvariation
+- Anti-locality and agreement
+- (Non-canonical) Agreement and syntactic microvariation
 - Interactions between movement and agreement
-- Anti-Locality and anti-local agreement
 - Welsh Syntax
 - Syntax of Nakh-Daghestanian languages
 - Tone
