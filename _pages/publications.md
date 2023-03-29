@@ -7,6 +7,8 @@ author_profile: true
 
 ## Manuscripts
 ---
+(2023) *Anti-Local Agree and Cyclicity* ([Paper](https://rosafritzsche.de/files/fritzsche-antilocality-cyclicity.pdf))
+
 (2022) *Ordering discontinuous &phi;-feature Agree: Verbal -s in North Eastern English* ([Paper](https://rosafritzsche.de/files/fritzsche-vbls-aug2022.pdf))
 
 ## Presentations
