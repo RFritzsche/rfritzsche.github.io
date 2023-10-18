@@ -9,7 +9,7 @@ author_profile: true
 ---
 (2023) **Ordering discontinuous &phi;-feature Agree: Verbal -s in North Eastern English**. *Journal of Comparative Germanic Linguistics* 26: 7. ([PDF](https://rosafritzsche.de/files/fritzsche-vbls_preprint.pdf) | [DOI](https://doi.org/10.1007/s10828-023-09147-1))
 
-(2023) **Anti-Local Agree and Cyclicity**. In: M. Privizentseva, F. Andermann and G. Müller, eds, *Cyclicity*. Vol. 95 of *Linguistische Arbeits Berichte*, Institut für Linguistik, Universität Leipzig. ([Paper](https://rosafritzsche.de/files/fritzsche-antilocality-cyclicity.pdf) | [LAB](https://www.philol.uni-leipzig.de/fileadmin/Fakultät_Philo/Linguistik/Forschung/LAB/LAB_95/lab95.pdf)))
+(2023) **Anti-Local Agree and Cyclicity**. In: M. Privizentseva, F. Andermann and G. Müller, eds, *Cyclicity*. Vol. 95 of *Linguistische Arbeits Berichte*, Institut für Linguistik, Universität Leipzig. ([Paper](https://rosafritzsche.de/files/fritzsche-antilocality-cyclicity.pdf) | [LAB](https://www.philol.uni-leipzig.de/fileadmin/Fakultät_Philo/Linguistik/Forschung/LAB/LAB_95/lab95.pdf))
 
 ## Presentations
 ---
