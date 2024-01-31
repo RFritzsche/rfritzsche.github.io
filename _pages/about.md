@@ -8,15 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD-candidate in the graduate programme ["Interaction of Grammatical Building Blocks (IGRA)"](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine/) at the University of Leipzig.
+Hi, I'm Rosa (she/her). I am a PhD-candidate in the graduate programme ["Interaction of Grammatical Building Blocks (IGRA)"](https://www.philol.uni-leipzig.de/graduiertenkolleg-interaktion-grammatischer-bausteine/) at the University of Leipzig.
 
-I am mainly interested in syntax and sometimes also in phonology. More specifically:
-
-- Anti-locality and anti-local agreement
-- Sequential interactions between movement and agreement
-- Cyclicity
-- Syntactic microvariation
-- Mutual Counterfeeding (work on tone in Bari)
+My research mainly focuses on theoretical syntax. More specifically, my interests include: Anti-locality and anti-local agreement; locality and cyclicity; sequential interactions of syntactic operations and constraints; and syntactic microvariation. I have also worked on mutual counterfeeding in Bari (Eastern Nilotic) tonal phonology.
 
 ## Contact
 
