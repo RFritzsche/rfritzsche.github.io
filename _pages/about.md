@@ -14,8 +14,8 @@ I am mainly interested in syntax and sometimes also in phonology. More specifica
 
 - Anti-locality and anti-local agreement
 - Sequential interactions between movement and agreement
+- Cyclicity
 - Syntactic microvariation
-- Syntax of Nakh-Daghestanian languages
 - Mutual Counterfeeding (work on tone in Bari)
 
 ## Contact
